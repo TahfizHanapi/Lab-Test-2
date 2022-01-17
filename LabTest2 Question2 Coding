@@ -1,0 +1,74 @@
+package LabTest;
+
+public class TimeTable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+     
+        int num1 = 1;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num1 * i);
+        }
+        System.out.println();
+        
+        int num2 = 2;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num2 * i);
+        }
+        System.out.println();
+        int num3 = 3;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num3 * i);
+        }
+        System.out.println();
+        int num4 = 4;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ",num4 * i);
+        }
+        System.out.println();
+        int num5 = 5;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num5 * i);
+        }
+        System.out.println();
+        int num6 = 6;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num6 * i);
+        }
+        System.out.println();
+        int num7 = 7;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num7 * i);
+        }
+        System.out.println();
+        int num8 = 8;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num8 * i);
+        }
+        System.out.println();
+        int num9 = 9;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num9 * i);
+        }
+        System.out.println();
+        int num10 = 10;
+        for(int i = 1; i <= 10; ++i)
+        {
+            System.out.printf("  %4d ", num10 * i);
+        }
+
+
+
+	}
+
+}
